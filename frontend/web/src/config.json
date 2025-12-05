@@ -1,0 +1,5 @@
+{
+  "network": "https://sepolia.infura.io/v3/96406da962744120afbe0cf64c8bd7b3",
+  "contractAddress": "0x4dAF85aFb10d799814Ad2b5e2f374EAd09Ba8659",
+  "deployer": "0x9CC8664aADBF1e0E68E0F1B0Cd92EcB6d78e51ea"
+}
